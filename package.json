@@ -1,0 +1,23 @@
+{
+  "name": "code-field",
+  "version": "1.0.0",
+  "description": "Source code for code-field blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinai-doron/code-field.git"
+  },
+  "keywords": [
+    "code",
+    "field"
+  ],
+  "author": "Doron Sinai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinai-doron/code-field/issues"
+  },
+  "homepage": "https://github.com/sinai-doron/code-field"
+}
