@@ -1,0 +1,9 @@
+*.idea
+*.iml
+*.log
+*.crt
+*.pem
+node_modules/
+.sass-cache
+dist_dev
+dist_prod
