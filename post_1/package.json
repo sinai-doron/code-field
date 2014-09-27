@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.9.4",
+    "fast-csv": "^0.5.2",
     "mongoose": "^3.8.16"
   }
 }
